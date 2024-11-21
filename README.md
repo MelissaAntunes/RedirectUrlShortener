@@ -16,7 +16,6 @@ Project created through a mini course from [Rocketseat](https://app.rocketseat.c
 3. [Redirecting URLs](https://github.com/MelissaAntunes/RedirectUrlShortener) and configuring API Gateway.
  
 #### Creating the shortened URL
-https://m359kitha8.execute-api.us-east-2.amazonaws.com/create
 ![shortUrl](https://github.com/user-attachments/assets/5eaea90c-89c9-4b9e-8a15-5411af7a8b57)
 
 #### Testing
